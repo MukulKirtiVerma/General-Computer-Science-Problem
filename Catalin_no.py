@@ -5,7 +5,7 @@ Created on Mon Apr  6 18:50:49 2020
 @author: Mukul Kirti Verma
 """
 
-n=5  
+n=10
 n=n+1
 c=[1]*n
 
